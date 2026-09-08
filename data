@@ -1,1 +1,562 @@
-data/pets.json
+[
+  {
+    "id": "earth-01",
+    "name": "Terra",
+    "element": "Earth",
+    "level": 1,
+    "rarity": "Common",
+    "image": "01_terra_earth_common_lv1.png"
+  },
+  {
+    "id": "earth-02",
+    "name": "Boulder",
+    "element": "Earth",
+    "level": 1,
+    "rarity": "Common",
+    "image": "02_boulder_earth_common_lv1.png"
+  },
+  {
+    "id": "earth-03",
+    "name": "Clayto",
+    "element": "Earth",
+    "level": 1,
+    "rarity": "Common",
+    "image": "03_clayto_earth_common_lv1.png"
+  },
+  {
+    "id": "earth-04",
+    "name": "Stonepaw",
+    "element": "Earth",
+    "level": 1,
+    "rarity": "Common",
+    "image": "04_stonepaw_earth_common_lv1.png"
+  },
+  {
+    "id": "earth-05",
+    "name": "Granite",
+    "element": "Earth",
+    "level": 1,
+    "rarity": "Common",
+    "image": "05_granite_earth_common_lv1.png"
+  },
+  {
+    "id": "earth-06",
+    "name": "Muddo",
+    "element": "Earth",
+    "level": 1,
+    "rarity": "Common",
+    "image": "06_muddo_earth_common_lv1.png"
+  },
+  {
+    "id": "earth-07",
+    "name": "Stonix",
+    "element": "Earth",
+    "level": 1,
+    "rarity": "Common",
+    "image": "07_stonix_earth_common_lv1.png"
+  },
+  {
+    "id": "earth-08",
+    "name": "Earthen",
+    "element": "Earth",
+    "level": 1,
+    "rarity": "Common",
+    "image": "08_earthen_earth_common_lv1.png"
+  },
+  {
+    "id": "earth-09",
+    "name": "Golem",
+    "element": "Earth",
+    "level": 1,
+    "rarity": "Common",
+    "image": "09_golem_earth_common_lv1.png"
+  },
+  {
+    "id": "earth-10",
+    "name": "Pebble",
+    "element": "Earth",
+    "level": 1,
+    "rarity": "Common",
+    "image": "10_pebble_earth_common_lv1.png"
+  },
+  {
+    "id": "water-01",
+    "name": "Aqua",
+    "element": "Water",
+    "level": 1,
+    "rarity": "Common",
+    "image": "01_aqua_water_common_lv1.png"
+  },
+  {
+    "id": "water-02",
+    "name": "Marina",
+    "element": "Water",
+    "level": 1,
+    "rarity": "Common",
+    "image": "02_marina_water_common_lv1.png"
+  },
+  {
+    "id": "water-03",
+    "name": "Splash",
+    "element": "Water",
+    "level": 1,
+    "rarity": "Common",
+    "image": "03_splash_water_common_lv1.png"
+  },
+  {
+    "id": "water-04",
+    "name": "Bubble",
+    "element": "Water",
+    "level": 1,
+    "rarity": "Common",
+    "image": "04_bubble_water_common_lv1.png"
+  },
+  {
+    "id": "water-05",
+    "name": "Tide",
+    "element": "Water",
+    "level": 1,
+    "rarity": "Common",
+    "image": "05_tide_water_common_lv1.png"
+  },
+  {
+    "id": "water-06",
+    "name": "Coral",
+    "element": "Water",
+    "level": 1,
+    "rarity": "Common",
+    "image": "06_coral_water_common_lv1.png"
+  },
+  {
+    "id": "water-07",
+    "name": "Nereid",
+    "element": "Water",
+    "level": 1,
+    "rarity": "Common",
+    "image": "07_nereid_water_common_lv1.png"
+  },
+  {
+    "id": "water-08",
+    "name": "Oceanix",
+    "element": "Water",
+    "level": 1,
+    "rarity": "Common",
+    "image": "08_oceanix_water_common_lv1.png"
+  },
+  {
+    "id": "water-09",
+    "name": "Wave",
+    "element": "Water",
+    "level": 1,
+    "rarity": "Common",
+    "image": "09_wave_water_common_lv1.png"
+  },
+  {
+    "id": "water-10",
+    "name": "Ripple",
+    "element": "Water",
+    "level": 1,
+    "rarity": "Common",
+    "image": "10_ripple_water_common_lv1.png"
+  },
+  {
+    "id": "nature-01",
+    "name": "Leafy",
+    "element": "Nature",
+    "level": 1,
+    "rarity": "Common",
+    "image": "01_leafy_nature_common_lv1.png"
+  },
+  {
+    "id": "nature-02",
+    "name": "Sprout",
+    "element": "Nature",
+    "level": 1,
+    "rarity": "Common",
+    "image": "02_sprout_nature_common_lv1.png"
+  },
+  {
+    "id": "nature-03",
+    "name": "Bloom",
+    "element": "Nature",
+    "level": 1,
+    "rarity": "Common",
+    "image": "03_bloom_nature_common_lv1.png"
+  },
+  {
+    "id": "nature-04",
+    "name": "Forest",
+    "element": "Nature",
+    "level": 1,
+    "rarity": "Common",
+    "image": "04_forest_nature_common_lv1.png"
+  },
+  {
+    "id": "nature-05",
+    "name": "Verdant",
+    "element": "Nature",
+    "level": 1,
+    "rarity": "Common",
+    "image": "05_verdant_nature_common_lv1.png"
+  },
+  {
+    "id": "nature-06",
+    "name": "Moss",
+    "element": "Nature",
+    "level": 1,
+    "rarity": "Common",
+    "image": "06_moss_nature_common_lv1.png"
+  },
+  {
+    "id": "nature-07",
+    "name": "Willow",
+    "element": "Nature",
+    "level": 1,
+    "rarity": "Common",
+    "image": "07_willow_nature_common_lv1.png"
+  },
+  {
+    "id": "nature-08",
+    "name": "Vine",
+    "element": "Nature",
+    "level": 1,
+    "rarity": "Common",
+    "image": "08_vine_nature_common_lv1.png"
+  },
+  {
+    "id": "nature-09",
+    "name": "Thorn",
+    "element": "Nature",
+    "level": 1,
+    "rarity": "Common",
+    "image": "09_thorn_nature_common_lv1.png"
+  },
+  {
+    "id": "nature-10",
+    "name": "Flora",
+    "element": "Nature",
+    "level": 1,
+    "rarity": "Common",
+    "image": "10_flora_nature_common_lv1.png"
+  },
+  {
+    "id": "ice-01",
+    "name": "Frosty",
+    "element": "Ice",
+    "level": 1,
+    "rarity": "Common",
+    "image": "01_frosty_ice_common_lv1.png"
+  },
+  {
+    "id": "ice-02",
+    "name": "Glacier",
+    "element": "Ice",
+    "level": 1,
+    "rarity": "Common",
+    "image": "02_glacier_ice_common_lv1.png"
+  },
+  {
+    "id": "ice-03",
+    "name": "Snowball",
+    "element": "Ice",
+    "level": 1,
+    "rarity": "Common",
+    "image": "03_snowball_ice_common_lv1.png"
+  },
+  {
+    "id": "ice-04",
+    "name": "Blizzard",
+    "element": "Ice",
+    "level": 1,
+    "rarity": "Common",
+    "image": "04_blizzard_ice_common_lv1.png"
+  },
+  {
+    "id": "ice-05",
+    "name": "Iceberg",
+    "element": "Ice",
+    "level": 1,
+    "rarity": "Common",
+    "image": "05_iceberg_ice_common_lv1.png"
+  },
+  {
+    "id": "ice-06",
+    "name": "Chill",
+    "element": "Ice",
+    "level": 1,
+    "rarity": "Common",
+    "image": "06_chill_ice_common_lv1.png"
+  },
+  {
+    "id": "ice-07",
+    "name": "Crystal",
+    "element": "Ice",
+    "level": 1,
+    "rarity": "Common",
+    "image": "07_crystal_ice_common_lv1.png"
+  },
+  {
+    "id": "ice-08",
+    "name": "Polar",
+    "element": "Ice",
+    "level": 1,
+    "rarity": "Common",
+    "image": "08_polar_ice_common_lv1.png"
+  },
+  {
+    "id": "ice-09",
+    "name": "Frostbite",
+    "element": "Ice",
+    "level": 1,
+    "rarity": "Common",
+    "image": "09_frostbite_ice_common_lv1.png"
+  },
+  {
+    "id": "ice-10",
+    "name": "Shard",
+    "element": "Ice",
+    "level": 1,
+    "rarity": "Common",
+    "image": "10_shard_ice_common_lv1.png"
+  },
+  {
+    "id": "fire-01",
+    "name": "Flame",
+    "element": "Fire",
+    "level": 1,
+    "rarity": "Common",
+    "image": "01_flame_fire_common_lv1.png"
+  },
+  {
+    "id": "fire-02",
+    "name": "Blaze",
+    "element": "Fire",
+    "level": 1,
+    "rarity": "Common",
+    "image": "02_blaze_fire_common_lv1.png"
+  },
+  {
+    "id": "fire-03",
+    "name": "Ember",
+    "element": "Fire",
+    "level": 1,
+    "rarity": "Common",
+    "image": "03_ember_fire_common_lv1.png"
+  },
+  {
+    "id": "fire-04",
+    "name": "Inferno",
+    "element": "Fire",
+    "level": 1,
+    "rarity": "Common",
+    "image": "04_inferno_fire_common_lv1.png"
+  },
+  {
+    "id": "fire-05",
+    "name": "Phoenix",
+    "element": "Fire",
+    "level": 1,
+    "rarity": "Common",
+    "image": "05_phoenix_fire_common_lv1.png"
+  },
+  {
+    "id": "fire-06",
+    "name": "Cinder",
+    "element": "Fire",
+    "level": 1,
+    "rarity": "Common",
+    "image": "06_cinder_fire_common_lv1.png"
+  },
+  {
+    "id": "fire-07",
+    "name": "Spark",
+    "element": "Fire",
+    "level": 1,
+    "rarity": "Common",
+    "image": "07_spark_fire_common_lv1.png"
+  },
+  {
+    "id": "fire-08",
+    "name": "Magma",
+    "element": "Fire",
+    "level": 1,
+    "rarity": "Common",
+    "image": "08_magma_fire_common_lv1.png"
+  },
+  {
+    "id": "fire-09",
+    "name": "Lava",
+    "element": "Fire",
+    "level": 1,
+    "rarity": "Common",
+    "image": "09_lava_fire_common_lv1.png"
+  },
+  {
+    "id": "fire-10",
+    "name": "Ash",
+    "element": "Fire",
+    "level": 1,
+    "rarity": "Common",
+    "image": "10_ash_fire_common_lv1.png"
+  },
+  {
+    "id": "wind-01",
+    "name": "Breeze",
+    "element": "Wind",
+    "level": 1,
+    "rarity": "Common",
+    "image": "01_breeze_wind_common_lv1.png"
+  },
+  {
+    "id": "wind-02",
+    "name": "Zephyr",
+    "element": "Wind",
+    "level": 1,
+    "rarity": "Common",
+    "image": "02_zephyr_wind_common_lv1.png"
+  },
+  {
+    "id": "wind-03",
+    "name": "Skylar",
+    "element": "Wind",
+    "level": 1,
+    "rarity": "Common",
+    "image": "03_skylar_wind_common_lv1.png"
+  },
+  {
+    "id": "wind-04",
+    "name": "Gale",
+    "element": "Wind",
+    "level": 1,
+    "rarity": "Common",
+    "image": "04_gale_wind_common_lv1.png"
+  },
+  {
+    "id": "wind-05",
+    "name": "Cloud",
+    "element": "Wind",
+    "level": 1,
+    "rarity": "Common",
+    "image": "05_cloud_wind_common_lv1.png"
+  },
+  {
+    "id": "wind-06",
+    "name": "Aero",
+    "element": "Wind",
+    "level": 1,
+    "rarity": "Common",
+    "image": "06_aero_wind_common_lv1.png"
+  },
+  {
+    "id": "wind-07",
+    "name": "Whisper",
+    "element": "Wind",
+    "level": 1,
+    "rarity": "Common",
+    "image": "07_whisper_wind_common_lv1.png"
+  },
+  {
+    "id": "wind-08",
+    "name": "Tornado",
+    "element": "Wind",
+    "level": 1,
+    "rarity": "Common",
+    "image": "08_tornado_wind_common_lv1.png"
+  },
+  {
+    "id": "wind-09",
+    "name": "Cyclone",
+    "element": "Wind",
+    "level": 1,
+    "rarity": "Common",
+    "image": "09_cyclone_wind_common_lv1.png"
+  },
+  {
+    "id": "wind-10",
+    "name": "Nimbus",
+    "element": "Wind",
+    "level": 1,
+    "rarity": "Common",
+    "image": "10_nimbus_wind_common_lv1.png"
+  },
+  {
+    "id": "thunder-01",
+    "name": "Bolt",
+    "element": "Thunder",
+    "level": 1,
+    "rarity": "Common",
+    "image": "01_bolt_thunder_common_lv1.png"
+  },
+  {
+    "id": "thunder-02",
+    "name": "Storm",
+    "element": "Thunder",
+    "level": 1,
+    "rarity": "Common",
+    "image": "02_storm_thunder_common_lv1.png"
+  },
+  {
+    "id": "thunder-03",
+    "name": "Zap",
+    "element": "Thunder",
+    "level": 1,
+    "rarity": "Common",
+    "image": "03_zap_thunder_common_lv1.png"
+  },
+  {
+    "id": "thunder-04",
+    "name": "Razor",
+    "element": "Thunder",
+    "level": 1,
+    "rarity": "Common",
+    "image": "04_razor_thunder_common_lv1.png"
+  },
+  {
+    "id": "thunder-05",
+    "name": "Thunderpaw",
+    "element": "Thunder",
+    "level": 1,
+    "rarity": "Common",
+    "image": "05_thunderpaw_thunder_common_lv1.png"
+  },
+  {
+    "id": "thunder-06",
+    "name": "Volt",
+    "element": "Thunder",
+    "level": 1,
+    "rarity": "Common",
+    "image": "06_volt_thunder_common_lv1.png"
+  },
+  {
+    "id": "thunder-07",
+    "name": "Flash",
+    "element": "Thunder",
+    "level": 1,
+    "rarity": "Common",
+    "image": "07_flash_thunder_common_lv1.png"
+  },
+  {
+    "id": "thunder-08",
+    "name": "Surge",
+    "element": "Thunder",
+    "level": 1,
+    "rarity": "Common",
+    "image": "08_surge_thunder_common_lv1.png"
+  },
+  {
+    "id": "thunder-09",
+    "name": "Flux",
+    "element": "Thunder",
+    "level": 1,
+    "rarity": "Common",
+    "image": "09_flux_thunder_common_lv1.png"
+  },
+  {
+    "id": "thunder-10",
+    "name": "Tempest",
+    "element": "Thunder",
+    "level": 1,
+    "rarity": "Common",
+    "image": "10_tempest_thunder_common_lv1.png"
+  }
+]
